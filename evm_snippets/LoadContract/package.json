@@ -11,7 +11,7 @@
   "license": "ISC",
   "type": "module",
   "devDependencies": {
-    "alchemy-sdk": "^2.5.0",
+    "alchemy-sdk": "^2.6.0",
     "ethers": "^6.0.8"
   }
 }
